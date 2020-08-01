@@ -10,4 +10,3 @@
 - :books: Currently studying Java
 
 Get in touch :wave:
----
