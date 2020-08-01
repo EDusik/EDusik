@@ -1,4 +1,4 @@
-## :man_technologist: Eduardo Dusik
+## Eduardo Dusik
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/)](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardodusik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardodusik@gmail.com)](mailto:eduardodusik@gmail.com)
