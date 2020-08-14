@@ -7,6 +7,6 @@
 - :man_technologist: **Front-end** Web Developer
 - :zap: Currently working on web applications with Angular
 - :rocket: Techs: Javascript, TypeScript, Angular, React.js, Node.js, Sass and **more**.
-- :books: Currently studying Java
+- :books: Currently studying <i style="text-decoration: line-through;">Java</i> <b>Node</b>
 
 Get in touch :wave:
