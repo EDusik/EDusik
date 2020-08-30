@@ -5,8 +5,8 @@
 <!-- [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg-style=flat)](https://portfolio-eduardo-dusik.herokuapp.com/) -->
 
 - :man_technologist: **Front-end** Web Developer
-- :zap: Currently working on web applications with Angular
-- :rocket: Techs: Javascript, TypeScript, Angular, React.js, Node.js, Sass and **more**.
+- :zap: Working on web applications with React.js
+- :rocket: Techs: Javascript, TypeScript, React.js, Angular, Node.js, Sass and **more**.
 - :books: Currently studying <i>Node</i>
 
 Get in touch :wave:
