@@ -1,12 +1,10 @@
 # Eduardo Dusik
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-79C0F2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/)](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-79C0F2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardodusik@gmail.com)](mailto:eduardodusik@gmail.com)
-<!-- [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg-style=flat)](https://portfolio-eduardo-dusik.herokuapp.com/) -->
+Hello, my name is <b>Eduardo Dusik</b> and I'm a front-end web developer passionate about it. I enjoy listening to power metal and i'm unable to stay without coffee.<br/>
+I'm a spontaneous and curious person by nature, who likes chess and nerd stuff, from Lord of the Rings and card games to Warhammer 40k.<br/>
 
-- :man_technologist: **Front-end** Web Developer
-- :zap: Working on web applications with React.js
-- :rocket: Techs: Javascript, TypeScript, React.js, Angular, Node.js, Sass and **more**.
-- :books: Currently studying <i>Node</i>
+:briefcase: [LinkedIn](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/) <br/>
+:man_technologist: [Blog](https://eduardodusik.dev/) <br/>
+:zap: [Portfolio](https://eduardodusik.com.br/) <br/>
 
 Get in touch :wave:
