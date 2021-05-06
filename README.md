@@ -4,7 +4,7 @@ I'm a front-end web developer passionate about it. I enjoy listening to power me
 I'm a spontaneous and curious person by nature, who likes chess and nerd stuff, from The Lord of the Rings to Warhammer 40k.<br/>
 
 * :man_technologist: [Blog](https://eduardodusik.dev/) <br/>
-* :zap: [Portfolio](https://eduardodusik.com.br/) <br/>
+* :art: [Portfolio](https://eduardodusik.com.br/) <br/>
 * :briefcase: [LinkedIn](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/) <br/>
 
 Get in touch :wave:
