@@ -1,6 +1,7 @@
 # Eduardo Dusik
 
-I'm a front-end web developer passionate about it. Lover of RPG, card games and programming. I enjoy listening to power metal and I'm unable to stay without coffee.<br/>
+I'm a front-end web developer passionate about it. Lover of RPG, card games, Warhammer 40k and programming. 
+In my free time I like to paint minis, enjoy listening to power metal and I'm unable to stay without coffee.<br/>
 
 * :man_technologist: [Blog](https://eduardodusik.dev/) <br/>
 * :art: [Portfolio](https://eduardodusik.com.br/) <br/>
