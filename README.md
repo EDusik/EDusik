@@ -6,6 +6,6 @@ In my free time I like to paint minis, enjoy listening to power metal and I'm un
 * :man_technologist: [Blog](https://eduardodusik.dev/) <br/>
 * :art: [Portfolio](https://eduardodusik.com.br/) <br/>
 * :briefcase: [LinkedIn](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/) <br/>
-* :camera_with_flash: [Instagram]([https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/](https://www.instagram.com/minipaintingmasterpieces/)<br/>
+* :camera_flash: [Instagram](https://www.instagram.com/minipaintingmasterpieces/)<br/>
 
 Get in touch :wave:
