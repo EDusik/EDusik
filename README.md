@@ -5,7 +5,7 @@
 - 💻 Avid full stack engineer passionate about front-end development
 - 🎲 Lover of RPG, card games and Warhammer 40k
 - 🖌️ Slow miniature painter
-- 🤘 Listens to power metal and melodic death metal most of the time
+- 🤘 Listens to power and melodic death metal most of the time
 - ☕ Can't stay one day without coffee
 
 ### Contact
