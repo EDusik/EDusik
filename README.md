@@ -2,11 +2,11 @@
 
 ### About
 
-- 💻 Avid full stack engineer passionate about front-end development
-- 🎲 Lover of RPG, card games and Warhammer 40k
-- 🖌️ Slow miniature painter
-- 🤘 Listens to power and melodic death metal most of the time
-- ☕ Can't stay one day without coffee
+-💻 Avid full-stack engineer passionate about front-end development
+-🎲 Lover of RPGs, card games, and Warhammer 40k
+-🖌️ Slow miniature painter
+-🤘 Listens to power and melodic death metal most of the time
+-☕ Can't go a day without coffee
 
 ### Contact
 
