@@ -1,11 +1,18 @@
 # Eduardo Dusik
 
-I'm a front-end web developer passionate about it. Lover of RPG, card games, Warhammer 40k and programming. 
-In my free time I like to paint minis, enjoy listening to power metal and I'm unable to stay without coffee.<br/>
+### About
 
-* :man_technologist: [Blog](https://eduardodusik.dev/) <br/>
-* :art: [Portfolio](https://eduardodusik.com.br/) <br/>
-* :briefcase: [LinkedIn](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/) <br/>
-* :camera_flash: [Instagram](https://www.instagram.com/minipaintingmasterpieces/)<br/>
+- 💻 Avid full stack engineer passionate about front-end development
+- 🎲 Lover of RPG, card games and Warhammer 40k
+- 🖌️ Slow miniature painter
+- 🤘 Listens to power metal and melodic death metal most of the time
+- ☕ Can't stay one day without coffee
 
-Get in touch :wave:
+### Contact
+
+- 👨‍💻 [Blog](https://eduardodusik.dev/)
+- 🎨 [Portfolio](https://eduardodusik.com.br/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-dos-santos-dusik-095100120/)
+- 📸 [Instagram](https://www.instagram.com/minipaintingmasterpieces/)
+
+Get in touch 👋
